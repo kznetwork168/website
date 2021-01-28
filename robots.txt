@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kznetwork168.github.io/website/sitemap.xml
