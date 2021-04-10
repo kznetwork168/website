@@ -3,12 +3,24 @@
     <title>kznetwork168</title>
     <link href="https://kznetwork168.github.io/website/feed.xml" rel="self" />
     <link href="https://kznetwork168.github.io/website" />
-    <updated>2021-04-11T02:39:14+08:00</updated>
+    <updated>2021-04-11T02:52:53+08:00</updated>
     <author>
         <name>JackyZou</name>
     </author>
     <id>https://kznetwork168.github.io/website</id>
 
+    <entry>
+        <title>文章</title>
+        <author>
+            <name>JackyZou</name>
+        </author>
+        <link href="https://kznetwork168.github.io/website/wen-zhang.html"/>
+        <id>https://kznetwork168.github.io/website/wen-zhang.html</id>
+
+        <updated>2021-04-11T02:52:53+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>-網站企劃- 網頁企劃書的概念補充</title>
         <author>
@@ -536,83 +548,6 @@
 <p id="inline-ad-1" class="inline-ad-slot" data-adtags-width="700" data-adtags-visited="true"> </p>
 <p data-adtags-visited="true"><strong>註一</strong>：廣告、標籤，可參考<a href="http://www.pixnet.net/" target="_blank" rel="noreferrer noopener"><strong>PIXNET</strong></a>、<a href="http://tw.yahoo.com/" target="_blank" rel="noreferrer noopener"><strong>Yahoo!</strong></a>或是各大入口網站的左上方的廣告導覽文字。</p>
 <p data-adtags-visited="true">最後，首頁的版面設計還是需要依照網站實際狀況而規劃，很多時候，理論還是必須配合現實情況來運用。</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>-網站企劃- 網頁版面設計</title>
-        <author>
-            <name>JackyZou</name>
-        </author>
-        <link href="https://kznetwork168.github.io/website/-wang-zhan-qi-hua-wang-ye-ban-mian-she-ji.html"/>
-        <id>https://kznetwork168.github.io/website/-wang-zhan-qi-hua-wang-ye-ban-mian-she-ji.html</id>
-
-        <updated>2021-04-11T02:33:54+08:00</updated>
-            <summary>
-                <![CDATA[
-                    要開始規劃版面時，我想蠻多網站企劃也跟我一樣毫無頭緒 這時候，不彷暫時離開電腦，拿出紙筆，什麼都別想讓心裏平靜一下。 等你覺得差不多了，那就在紙上開始畫出你想像中的版面。 先想著這個網站有什麼功能、該怎麼呈現、SEO與CSS需要注意什麼…等等。 其實，當你在一邊畫一邊修改時，已經慢慢完成網站首頁的版面了。 相信我，這個方法很有效，常常會畫出你想要的網站版型。 那麼 這次我就來介紹幾種比較常用的網站版型。 先介紹單欄式網站，以荷斯特數位網頁設計的版面為例 藍色區塊代表：最重要、最容易引人注意的區塊。 黃色區塊代表：次重要引人注意的區塊。 紅色區塊代表：最不容易引人注意的區塊。 A：網站LOGO，放置網站的標誌及主導覽列。 B：動畫形象區，放置網站的Flash形象展示動畫。 C：最新作品區，放置近期最新的作品。 D：資訊公告區，發佈最新公告的資訊。 E：最新消息區，發佈有關於網頁設計等相關資訊，以增加閱讀性。 F：版權資訊區，放置有關於網站的文字連結與版權宣告等資訊。 這是一個簡單的網站版面設計，也是這個網站想要呈現的效果。 以白色為基底的設計是想要傳達簡單、明亮、清楚的感覺，並以綠色點綴版面。 另外，E區在視覺瀏覽上是比較弱的，所以將資訊呈現半閱讀狀態 讓資訊能夠吸引瀏覽者並點選按鈕，繼續閱讀下去。 類似的單欄式網站如OGILVY、奇美、NIKE、SONY、可口可樂…等等。 兩欄式網站，以宏碁的版面為例： A：網站LOGO，放置網站Logo、聯絡我們與產品搜尋。 B：導覽功能表，放置網站最新消息與產品資訊供瀏覽者直接點選。 C：動畫形象區，放置網站的Flash形象展示動畫與主導覽列。 D：產品廣告區，放置產品搜尋、相關連結與公司簡介等資訊，並設計兩個AD廣告區塊。 兩欄式網站的優點就是版面設計清楚、簡單，瀏覽者馬上就可以找到想得知的資訊。 類似的兩欄式網站如emome、手機王、天下雜誌…等等。 最後，介紹三欄式網站的版面設計，以哩哩叩叩雜貨網做為例： A：網站LOGO，放置網站的標誌與AD1、AD2與次導覽列。 B：導覽功能表，為主導覽列，以文字方式呈現產品分類，主分類點選後則出現次分類下拉式選單。 C：會員訊息區，放置會員登入、如入會員、忘記密碼與最新消息。 D：動畫商品區，放置網站的Flash形象展示動畫與推薦商品。 E：商品廣告區，放置新品上市與AD3-AD5的廣告輪播。 F：版權資訊區，放置有關於網站的文字連結與版權宣告等資訊。 這是一個簡單的購物網站，因此採用商品簡單上架的基礎原則，讓使用者來瀏覽時不會眼花撩亂。 三欄式設計通常較為大器，常用於資訊量大、更新速度快，並給人開闊、有氣勢的感覺。 這種三欄式架構在運用在很多不同類型的網站上，如博客來、黑秀網、燦坤3C.、城邦、誠品..等等。 基本上，網站的整體架構是差不多的，只是要思考如何將網站的資訊規劃適當的位置呈現出來。 因此，在規畫細項功能時，我們可以先畫出大架構在以拼圖的方式慢慢將功能擺上適當的位置。 對了!!在告訴大家一件事，那個欄位架構圖是用Visio畫出來的喔，不是AI。 朋友們 可以去玩玩看這一個軟體，真的蠻好用的~
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p data-adtags-visited="true">要開始規劃版面時，我想蠻多<a href="http://sony1708.pixnet.net/blog/category/1265651" target="_blank" rel="noreferrer noopener"><strong>網站企劃</strong></a>也跟我一樣毫無頭緒</p>
-<p data-adtags-visited="true">這時候，不彷暫時離開電腦，拿出紙筆，什麼都別想讓心裏平靜一下。</p>
-<p data-adtags-visited="true">等你覺得差不多了，那就在紙上開始畫出你想像中的版面。</p>
-<p data-adtags-visited="true">先想著這個網站有什麼功能、該怎麼呈現、<a href="http://sony1708.pixnet.net/blog/post/23945230" target="_blank" rel="noreferrer noopener"><strong>SEO與CSS</strong></a>需要注意什麼…等等。</p>
-<p data-adtags-visited="true">其實，當你在一邊畫一邊修改時，已經慢慢完成網站首頁的版面了。</p>
-<p data-adtags-visited="true">相信我，這個方法很有效，常常會畫出你想要的網站版型。</p>
-<p data-adtags-visited="true">那麼 這次我就來介紹幾種比較常用的網站版型。</p>
-<p data-adtags-visited="true">先介紹<strong>單欄式網站</strong>，以<a href="http://www.ideahost.com.tw/" target="_blank" rel="noreferrer noopener"><strong>荷斯特數位網頁設計</strong></a>的版面為例</p>
-<figure class="wp-block-image"><a href="https://pic.pimg.tw/sony1708/normal_499f56260b75b.gif"><img loading="lazy" title="ideahost" src="https://pic.pimg.tw/sony1708/normal_499f56260b75b.gif" data-is-external-image="true"  alt="ideahost"></a></figure>
-<p data-adtags-visited="true">  <a href="http://sony1708.pixnet.net/album/photo/111585460"></a></p>
-<p data-adtags-visited="true"><strong>藍色區塊</strong>代表：最重要、最容易引人注意的區塊。</p>
-<p data-adtags-visited="true"><strong>黃色區塊</strong>代表：次重要引人注意的區塊。</p>
-<p data-adtags-visited="true"><strong>紅色區塊</strong>代表：最不容易引人注意的區塊。</p>
-<figure class="wp-block-image"><a href="https://pic.pimg.tw/sony1708/normal_499f97da3d790.gif"><img loading="lazy" title="單欄式版面" src="https://pic.pimg.tw/sony1708/normal_499f97da3d790.gif" data-is-external-image="true"  alt="單欄式版面"></a></figure>
-<p data-adtags-visited="true"><strong>A：</strong>網站LOGO，放置網站的標誌及主導覽列。</p>
-<p id="inline-ad-0" class="inline-ad-slot" data-adtags-width="700" data-adtags-visited="true"> </p>
-<p data-adtags-visited="true"><strong>B：</strong>動畫形象區，放置網站的Flash形象展示動畫。</p>
-<p data-adtags-visited="true"><strong>C：</strong>最新作品區，放置近期最新的作品。</p>
-<p data-adtags-visited="true"><strong>D：</strong>資訊公告區，發佈最新公告的資訊。</p>
-<p data-adtags-visited="true"><strong>E：</strong>最新消息區，發佈有關於網頁設計等相關資訊，以增加閱讀性。</p>
-<p data-adtags-visited="true"><strong>F：</strong>版權資訊區，放置有關於網站的文字連結與版權宣告等資訊。</p>
-<p data-adtags-visited="true">這是一個簡單的網站版面設計，也是這個網站想要呈現的效果。</p>
-<p data-adtags-visited="true">以白色為基底的設計是想要傳達簡單、明亮、清楚的感覺，並以綠色點綴版面。</p>
-<p data-adtags-visited="true">另外，E區在視覺瀏覽上是比較弱的，所以將資訊呈現半閱讀狀態</p>
-<p data-adtags-visited="true">讓資訊能夠吸引瀏覽者並點選按鈕，繼續閱讀下去。</p>
-<p data-adtags-visited="true">類似的單欄式網站如<strong><a href="http://www.ogilvy.com.tw/">OGILVY</a></strong>、<a href="http://www.chimei.com.tw/" target="_blank" rel="noreferrer noopener"><strong>奇美</strong></a>、<a href="http://www.nike.com.tw/g1/tw/" target="_blank" rel="noreferrer noopener"><strong>NIKE</strong></a>、<a href="http://www.sony.com.tw/" target="_blank" rel="noreferrer noopener"><strong>SONY</strong></a>、<a href="http://www.coke.com.tw/" target="_blank" rel="noreferrer noopener"><strong>可口可樂</strong></a>…等等。</p>
-<p data-adtags-visited="true"><strong>兩欄式網站</strong>，以<a href="http://www.acer.com.tw/" target="_blank" rel="noreferrer noopener"><strong>宏碁</strong></a>的版面為例：</p>
-<figure class="wp-block-image"><a href="https://pic.pimg.tw/sony1708/normal_499f940c805a6.png"><img loading="lazy" title="acer" src="https://pic.pimg.tw/sony1708/normal_499f940c805a6.png" data-is-external-image="true"  alt="acer"></a></figure>
-<p data-adtags-visited="true"> </p>
-<figure class="wp-block-image"><a href="https://pic.pimg.tw/sony1708/normal_499f9358a1b35.gif"><img loading="lazy" title="兩欄式版面" src="https://pic.pimg.tw/sony1708/normal_499f9358a1b35.gif" data-is-external-image="true"  alt="兩欄式版面"></a></figure>
-<p data-adtags-visited="true"><strong>A：</strong>網站LOGO，放置網站Logo、聯絡我們與產品搜尋。</p>
-<p id="inline-ad-1" class="inline-ad-slot" data-adtags-width="700" data-adtags-visited="true"> </p>
-<p data-adtags-visited="true"><strong>B：</strong>導覽功能表，放置網站最新消息與產品資訊供瀏覽者直接點選。</p>
-<p data-adtags-visited="true"><strong>C：</strong>動畫形象區，放置網站的Flash形象展示動畫與主導覽列。</p>
-<p data-adtags-visited="true"><strong>D：</strong>產品廣告區，放置產品搜尋、相關連結與公司簡介等資訊，並設計兩個AD廣告區塊。</p>
-<p data-adtags-visited="true">兩欄式網站的優點就是版面設計清楚、簡單，瀏覽者馬上就可以找到想得知的資訊。</p>
-<p data-adtags-visited="true">類似的兩欄式網站如<a href="http://www.emome.net/" target="_blank" rel="noreferrer noopener"><strong>emome</strong></a>、<a href="http://www.sogi.com.tw/" target="_blank" rel="noreferrer noopener"><strong>手機王</strong></a>、<a href="http://www.cw.com.tw/" target="_blank" rel="noreferrer noopener"><strong>天下雜誌</strong></a>…等等。</p>
-<p data-adtags-visited="true">最後，介紹<strong>三欄式網站</strong>的版面設計，以<a href="http://www.lilicoco.com.tw/" target="_blank" rel="noreferrer noopener"><strong>哩哩叩叩雜貨網</strong></a>做為例：</p>
-<figure class="wp-block-image"><a href="https://pic.pimg.tw/sony1708/normal_499ecf892521a.gif"><img loading="lazy" title="lilicoco.com" src="https://pic.pimg.tw/sony1708/normal_499ecf892521a.gif" data-is-external-image="true"  alt="lilicoco.com"></a></figure>
-<p data-adtags-visited="true"> </p>
-<figure class="wp-block-image"><a href="https://pic.pimg.tw/sony1708/49e156c1281ac.gif"><img loading="lazy" title="三欄式版面" src="https://pic.pimg.tw/sony1708/49e156c1281ac.gif" data-is-external-image="true"  alt="三欄式版面"></a></figure>
-<p data-adtags-visited="true"><strong>A：</strong>網站LOGO，放置網站的標誌與AD1、AD2與次導覽列。</p>
-<p id="inline-ad-2" class="inline-ad-slot" data-adtags-width="700" data-adtags-visited="true"> </p>
-<p data-adtags-visited="true"><strong>B：</strong>導覽功能表，為主導覽列，以文字方式呈現產品分類，主分類點選後則出現次分類下拉式選單。</p>
-<p data-adtags-visited="true"><strong>C：</strong>會員訊息區，放置會員登入、如入會員、忘記密碼與最新消息。</p>
-<p data-adtags-visited="true"><strong>D：</strong>動畫商品區，放置網站的Flash形象展示動畫與推薦商品。</p>
-<p data-adtags-visited="true"><strong>E：</strong>商品廣告區，放置新品上市與AD3-AD5的廣告輪播。</p>
-<p data-adtags-visited="true"><strong>F：</strong>版權資訊區，放置有關於網站的文字連結與版權宣告等資訊。</p>
-<p data-adtags-visited="true">這是一個簡單的購物網站，因此採用商品簡單上架的基礎原則，讓使用者來瀏覽時不會眼花撩亂。</p>
-<p data-adtags-visited="true">三欄式設計通常較為大器，常用於資訊量大、更新速度快，並給人開闊、有氣勢的感覺。</p>
-<p data-adtags-visited="true">這種三欄式架構在運用在很多不同類型的網站上，如<a href="http://www.books.com.tw/" target="_blank" rel="noreferrer noopener"><strong>博客來</strong></a>、<a href="http://www.heyshow.com.tw/" target="_blank" rel="noreferrer noopener"><strong>黑秀網</strong></a>、<a href="http://www.tkec.com.tw/" target="_blank" rel="noreferrer noopener"><strong>燦坤3C</strong></a>.、<a href="http://www.cite.com.tw/" target="_blank" rel="noreferrer noopener"><strong>城邦</strong></a>、<a href="http://www.eslite.com/index.aspx" target="_blank" rel="noreferrer noopener"><strong>誠品</strong></a>..等等。</p>
-<figure class="wp-block-image"><a href="https://pic.pimg.tw/sony1708/normal_499f5fbdc3e39.jpg"><img loading="lazy" title="博客來版面設計" src="https://pic.pimg.tw/sony1708/normal_499f5fbdc3e39.jpg" data-is-external-image="true"  alt="博客來版面設計"></a></figure>
-<figure class="wp-block-image"><a href="https://pic.pimg.tw/sony1708/normal_499f5f4582339.jpg"><img loading="lazy" title="燦坤3C版面設計" src="https://pic.pimg.tw/sony1708/normal_499f5f4582339.jpg" data-is-external-image="true"  alt="燦坤3C版面設計"></a></figure>
-<p data-adtags-visited="true">基本上，網站的整體架構是差不多的，只是要思考如何將網站的資訊規劃適當的位置呈現出來。</p>
-<p id="inline-ad-3" class="inline-ad-slot" data-adtags-width="700" data-adtags-visited="true"> </p>
-<p data-adtags-visited="true">因此，在規畫細項功能時，我們可以先畫出大架構在以拼圖的方式慢慢將功能擺上適當的位置。</p>
-<p data-adtags-visited="true">對了!!在告訴大家一件事，那個欄位架構圖是用<a href="http://sony1708.pixnet.net/blog/post/22562148" target="_blank" rel="noreferrer noopener"><strong>Visio</strong></a>畫出來的喔，不是<a href="http://www.adobe.com/tw/products/illustrator/?promoid=BPCOT" target="_blank" rel="noreferrer noopener"><strong>AI</strong></a>。</p>
-<p data-adtags-visited="true">朋友們 可以去玩玩看這一個軟體，真的蠻好用的~</p>
             ]]>
         </content>
     </entry>
